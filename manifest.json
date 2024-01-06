@@ -1,0 +1,7 @@
+{
+    "name": "Assassination_Classroom_Boombox",
+    "version_number": "1.0.0",
+    "author": "ethereal_chiono",
+    "description": "Add a new boombox with Assassination Classroom songs to Lethal company",
+    "dependencies": ["Alice-YourOwnPersonalBoombox-1.4.1"]
+}

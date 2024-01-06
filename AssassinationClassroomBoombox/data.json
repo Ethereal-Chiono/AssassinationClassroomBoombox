@@ -1,0 +1,9 @@
+{
+	"name": "Assassin BoomBox",
+	"description": "I hope you can kill me",
+	"price": 70,
+	"volume": 0.4,
+	"red": 240,
+	"blue": 15,
+	"green": 228
+}
